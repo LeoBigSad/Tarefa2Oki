@@ -1,0 +1,11 @@
+C:\Users\leozi\source\repos\ConsoleApp4\MinhaBiblioteca\obj\Debug\net8.0\MinhaBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leozi\source\repos\ConsoleApp4\MinhaBiblioteca\obj\Debug\net8.0\MinhaBiblioteca.AssemblyInfoInputs.cache
+C:\Users\leozi\source\repos\ConsoleApp4\MinhaBiblioteca\obj\Debug\net8.0\MinhaBiblioteca.AssemblyInfo.cs
+C:\Users\leozi\source\repos\ConsoleApp4\MinhaBiblioteca\obj\Debug\net8.0\MinhaBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\leozi\source\repos\ConsoleApp4\MinhaBiblioteca\bin\Debug\net8.0\MinhaBiblioteca.deps.json
+C:\Users\leozi\source\repos\ConsoleApp4\MinhaBiblioteca\bin\Debug\net8.0\MinhaBiblioteca.dll
+C:\Users\leozi\source\repos\ConsoleApp4\MinhaBiblioteca\bin\Debug\net8.0\MinhaBiblioteca.pdb
+C:\Users\leozi\source\repos\ConsoleApp4\MinhaBiblioteca\obj\Debug\net8.0\MinhaBiblioteca.dll
+C:\Users\leozi\source\repos\ConsoleApp4\MinhaBiblioteca\obj\Debug\net8.0\refint\MinhaBiblioteca.dll
+C:\Users\leozi\source\repos\ConsoleApp4\MinhaBiblioteca\obj\Debug\net8.0\MinhaBiblioteca.pdb
+C:\Users\leozi\source\repos\ConsoleApp4\MinhaBiblioteca\obj\Debug\net8.0\ref\MinhaBiblioteca.dll
